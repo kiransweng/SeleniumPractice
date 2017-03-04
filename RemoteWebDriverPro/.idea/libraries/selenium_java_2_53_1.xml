@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="selenium-java-2.53.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-2.53.1/selenium-2.53.1/selenium-java-2.53.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-2.53.1/selenium-2.53.1/selenium-java-2.53.1-srcs.jar!/" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../WEBDRIVERPRO/src" />
+      <root url="file://$PROJECT_DIR$/../WebDriver-PageFactoryPro/src" />
+    </SOURCES>
+  </library>
+</component>
